@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Noaht8)](https://github.com/Noaht8/github-profile-trophy)
 <!--
 **Noaht8/Noaht8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
