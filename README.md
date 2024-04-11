@@ -17,7 +17,7 @@ Smart Contracts, Solidity, Ethereum, Blockchain Development<br>
 🤖 Machine Learning and AI<br>
 
 ### 📫 Get in Touch<br>
-🌐 LinkedIn: [LinkedIn Profile](linkedin.com/in/noah-tsegay-584546129)<br>
+🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/noah-tsegay-584546129/)<br>
 📧 Email: noahtsegay8@gmail.com<br>
 🌐 Portfolio: [My Portfolio](https://github.com/Noaht8)<br>
 
