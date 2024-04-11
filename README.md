@@ -19,7 +19,7 @@ Smart Contracts, Ethereum, Blockchain Development<br>
 ### 📫 Get in Touch<br>
 🌐 LinkedIn: linkedin.com/in/noah-tsegay-584546129<br>
 📧 Email: noahtsegay8@gmail.com<br>
-🌐 Portfolio: [Your Portfolio](https://github.com/Noaht8)<br>
+🌐 Portfolio: [My Portfolio](https://github.com/Noaht8)<br>
 
 
 ### 🚀 More About Me
