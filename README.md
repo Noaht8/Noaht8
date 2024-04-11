@@ -1,15 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a passionate Software Engineer with a focus on Full Stack and Blockchain Development. I love turning innovative ideas into robust and efficient solutions. With expertise in a range of programming languages and technologies, I'm always eager to take on new challenges and build impactful projects.
 
-### 🛠️ Skills
-## 💻 Programming Languages:<br>
+## 🛠️ Skills
+### 💻 Programming Languages:<br>
 Python, JavaScript, Java, C, Solidity<br>
 ## 🌐 Web Development:<br>
 React, Node.js, PHP<br><br>
-🗄️ Databases:<br>
+### 🗄️ Databases:<br>
 SQL, MongoDB<br>
-⛓️ Blockchain:<br>
+### ⛓️ Blockchain:<br>
 Smart Contracts, Ethereum, Blockchain Development<br>
 
 ### 🌱 Currently Learning<br>
