@@ -6,7 +6,7 @@ I'm a passionate Software Engineer with a focus on Full Stack and Blockchain Dev
 ### 💻 Programming Languages:<br>
 Python, JavaScript, Java, C, Solidity<br>
 ### 🌐 Web Development:<br>
-React, Node.js, PHP<br><br>
+React, Node.js, PHP<br>
 ### 🗄️ Databases:<br>
 SQL, MongoDB<br>
 ### ⛓️ Blockchain:<br>
