@@ -13,7 +13,7 @@ SQL, MongoDB<br>
 Smart Contracts, Solidity, Ethereum, Blockchain Development<br>
 
 ### 🌱 Currently Learning<br>
-🧠 Advanced blockchain technologies<br>
+🧠 Blockchain technologies<br>
 🤖 Machine Learning and AI<br>
 
 ### 📫 Get in Touch<br>
