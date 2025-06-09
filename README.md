@@ -44,6 +44,8 @@ Smart Contracts, Solidity, Ethereum, Blockchain Development<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Noaht8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 📅 GitHub Contributions Calendar
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noaht8&theme=github-compact)
 
 
 
