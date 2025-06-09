@@ -32,5 +32,9 @@ Smart Contracts, Solidity, Ethereum, Blockchain Development<br>
 📊 GitHub Stats<br>
 
 📈 Top Languages<br>
+## 🧑‍💻 GitHub Language Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noaht8&layout=compact&langs_count=10)](https://github.com/Noaht8)
+
 
 Feel free to explore my repositories to see some of the projects I've worked on. If you have any questions or would like to collaborate on a project, feel free to reach out!
