@@ -36,6 +36,7 @@ Smart Contracts, Solidity, Ethereum, Blockchain Development<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noaht8&layout=compact&langs_count=10)](https://github.com/Noaht8)
 
+<!--
 ## 📊 GitHub Stats Cards
 
 ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noaht8&show_icons=true&theme=tokyonight)
@@ -49,7 +50,7 @@ Smart Contracts, Solidity, Ethereum, Blockchain Development<br>
 ## 📅 GitHub Contributions Calendar
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noaht8&theme=github-compact)
 
-
+-->
 
 
 
