@@ -36,5 +36,17 @@ Smart Contracts, Solidity, Ethereum, Blockchain Development<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noaht8&layout=compact&langs_count=10)](https://github.com/Noaht8)
 
+## 📊 GitHub Stats Cards
+
+![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noaht8&show_icons=true&theme=tokyonight)
+
+## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Noaht8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 
 Feel free to explore my repositories to see some of the projects I've worked on. If you have any questions or would like to collaborate on a project, feel free to reach out!
