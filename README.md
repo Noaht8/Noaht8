@@ -1,57 +1,68 @@
-## Hi there 👋
+## 👋 Hi, I'm Noah Tsegay
 
-I'm a passionate Software Engineer with a focus on Full Stack and Blockchain Development. I love turning innovative ideas into robust and efficient solutions. With expertise in a range of programming languages and technologies, I'm always eager to take on new challenges and build impactful projects.
+I'm a passionate **Software Engineer** focused on **Full Stack Development** and **Blockchain Technologies**. I enjoy turning innovative ideas into robust, scalable solutions and exploring emerging technologies like AI and decentralized applications.
 
-## 🛠️ Skills
-### 💻 Programming Languages:<br>
-Python, JavaScript, Java, C, Solidity<br>
-### 🌐 Web Development:<br>
-JavaScript (ES6+), React, Node.js, Express.js, PHP, HTML5, CSS3, Bootstrap, Django, Flask<br>
-### 🗄️ Databases:<br>
-SQL, MongoDB<br>
-### ⛓️ Blockchain:<br>
-Smart Contracts, Solidity, Ethereum, Blockchain Development<br>
+---
 
-### 🌱 Currently Learning<br>
-🧠 Blockchain technologies<br>
-🤖 Machine Learning and AI<br>
+## 🧰 Tech Stack
 
-### 📫 Get in Touch<br>
-🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/noah-tsegay-584546129/)<br>
-📧 Email: noahtsegay8@gmail.com<br>
-🌐 Portfolio: [My Portfolio](https://github.com/Noaht8)<br>
+### 💻 Programming Languages  
+Python • JavaScript • Java • C • Solidity
 
+### 🌐 Web Development  
+React • Node.js • Express • Django • Flask • PHP • HTML • CSS • Bootstrap
 
-### 🚀 More About Me
-🔭 I’m currently working on blockchain-based decentralized applications.<br>
-🌱 I’m currently learning machine learning algorithms and their applications in finance.<br>
-👯 I’m looking to collaborate on innovative blockchain projects and web applications.<br>
-🤔 I’m looking for help with scaling blockchain networks and optimizing database performance.<br>
-💬 Ask me about Python, blockchain, or anything tech-related!<br>
-📫 How to reach me: Use the contact options listed above or send me a direct message on LinkedIn.<br>
-📊 GitHub Stats<br>
+### 🗄️ Databases  
+SQL • MongoDB
 
-📈 Top Languages<br>
-## 🧑‍💻 GitHub Language Stats
+### ⛓️ Blockchain  
+Solidity • Ethereum • Smart Contracts • dApp Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noaht8&layout=compact&langs_count=10)](https://github.com/Noaht8)
+---
 
-<!--
-## 📊 GitHub Stats Cards
+## 🚀 What I'm Working On
+
+- 🔭 Building blockchain-based decentralized applications  
+- 🌱 Exploring AI and ML, especially for financial applications  
+- 👯 Open to collaborating on web3 and full-stack projects  
+- 📈 Improving performance and scalability of blockchain networks and backend systems  
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/noah-tsegay-584546129/)
+- 💼 [Portfolio / Projects](https://github.com/Noaht8)
+- 📧 Email: noahtsegay8@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noaht8&layout=compact&langs_count=10&theme=tokyonight)
+
+<!-- Optional stats - uncomment if you'd like to include them
 
 ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noaht8&show_icons=true&theme=tokyonight)
 
-## 🏆 Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Noaht8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Noaht8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Noaht8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## 📅 GitHub Contributions Calendar
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noaht8&theme=github-compact)
 
 -->
 
+---
 
+## 📂 Featured Projects
 
-Feel free to explore my repositories to see some of the projects I've worked on. If you have any questions or would like to collaborate on a project, feel free to reach out!
+> *Highlight a few projects with short descriptions and links to their repos.*
+
+- 🧠 **AI Stock Predictor** – Predicts financial trends using ML algorithms and Python. [View Repo](#)
+- 🌐 **DeBlog** – A decentralized blogging platform built on Ethereum. [View Repo](#)
+- 📱 **TaskTrackr** – A full-stack productivity tool using React and Django. [View Repo](#)
+
+---
+
+## 🙌 Let's Build Something Great
+
+Feel free to explore my repositories. Whether you’re hiring, collaborating, or just geeking out about tech, I’d love to connect!
