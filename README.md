@@ -41,15 +41,15 @@ Solidity • Ethereum • Smart Contracts • dApp Development
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noaht8&layout=compact&langs_count=10&theme=tokyonight)
 
-<!-- Optional stats - uncomment if you'd like to include them
-
+<!--
+-->
 ![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noaht8&show_icons=true&theme=tokyonight)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Noaht8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noaht8&theme=github-compact)
 
--->
+
 
 ---
 
