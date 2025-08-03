@@ -42,9 +42,9 @@ Solidity • Ethereum • Smart Contracts • dApp Development
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noaht8&layout=compact&langs_count=10&theme=tokyonight)
 
 <!--
--->
-![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noaht8&show_icons=true&theme=tokyonight)
 
+![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noaht8&show_icons=true&theme=tokyonight)
+-->
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Noaht8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noaht8&theme=github-compact)
@@ -55,12 +55,12 @@ Solidity • Ethereum • Smart Contracts • dApp Development
 
 ## 📂 Featured Projects
 
-> *Highlight a few projects with short descriptions and links to their repos.*
 
+<!--
 - 🧠 **AI Stock Predictor** – Predicts financial trends using ML algorithms and Python. [View Repo](#)
 - 🌐 **DeBlog** – A decentralized blogging platform built on Ethereum. [View Repo](#)
 - 📱 **TaskTrackr** – A full-stack productivity tool using React and Django. [View Repo](#)
-
+-->
 ---
 
 ## 🙌 Let's Build Something Great
