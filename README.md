@@ -65,4 +65,4 @@ Solidity • Ethereum • Smart Contracts • dApp Development
 
 ## 🙌 Let's Build Something Great
 
-Feel free to explore my repositories. Whether you’re hiring, collaborating, or just geeking out about tech, I’d love to connect!
+Feel free to explore my repositories.
