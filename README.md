@@ -44,8 +44,8 @@ Building intelligent, decentralized, and high-performance systems with modern te
 
 ### Blockchain
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" height="42" alt="Ethereum"/>
-<img src="https://web3js.readthedocs.io/en/v1.10.0/_static/logo.svg" height="42" alt="Web3.js"/>
-<img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo.5e32c1e1.svg&w=256&q=75" height="42" alt="Hardhat"/>
+<img src="https://docs.web3js.org/img/web3js.svg" height="42" alt="Web3.js"/>
+<img src="https://cdn.dribbble.com/userupload/45663923/file/6c9dbea1ebf94bb64648260f59bb0f91.png" height="42" alt="Hardhat"/>
 
 ### Databases & Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB"/>
