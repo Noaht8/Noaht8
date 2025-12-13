@@ -70,8 +70,9 @@ Building intelligent, decentralized, and high-performance systems with modern te
 ## GitHub Stats
 
 <div align="center">
-
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noaht8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+-->  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noaht8&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 <br>
