@@ -66,9 +66,8 @@ Building intelligent, decentralized, and high-performance systems with modern te
 ### Blockchain
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" height="42" alt="Ethereum"/>
 <img src="https://docs.web3js.org/img/web3js.svg" height="42" alt="Web3.js"/>
-<img src="https://ethers.org/assets/logo.svg" height="42" alt="ethers.js" style="background:white; border-radius:8px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" height="42" alt="Hardhat" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/truffle/truffle-original.svg" height="42" alt="Truffle"/>
+
 
 
 
