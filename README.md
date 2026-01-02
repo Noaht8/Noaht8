@@ -44,6 +44,10 @@ Building intelligent, decentralized, and high-performance systems with modern te
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="42" alt="Laravel" style="background:white; border-radius:8px" />             
 <img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="42" alt="Gin" style="background:white; border-radius:8px"/>
 
+### Mobile Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="42" alt="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React Native"/>
+
 ### AI / ML
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="TensorFlow"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" alt="PyTorch"/>
