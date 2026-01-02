@@ -35,7 +35,7 @@ Building intelligent, decentralized, and high-performance systems with modern te
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="Django"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" alt="Flask"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="42" alt="Laravel" style="background:white; border-radius:8px" />             
-<img src="https://gin-gonic.com/images/gin-gonic.png" height="42" alt="Gin" style="background:white; border-radius:8px"/>
+<img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="42" alt="Gin" style="background:white; border-radius:8px"/>
 
 ### AI / ML
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="TensorFlow"/>
