@@ -1,132 +1,85 @@
-<img align="right" width="180px" src="https://github.com/Noaht8.png" style="border-radius:50%; border:5px solid #6e56cf;" />
+<img align="right" width="160" src="https://github.com/Noaht8.png" style="border-radius:50%; border:4px solid #6e56cf;" />
 
-# Hey, I'm Noah Tsegay
+# Noah Tsegay
 
-**Full Stack • Blockchain • AI Engineer**
+**Full-Stack • Blockchain • AI Engineer**
 
-Building intelligent, decentralized, and high-performance systems with modern tech.
+Building intelligent, decentralized, and high-performance systems.
 
-<br>
+---
 
-## Tech Stack & Tools
+### About
 
-<div align="center">
+I design and ship full-stack applications, smart contracts, and AI-powered systems.  
+Currently focused on high-performance backends, on-chain applications, and intelligent agents.
 
-### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="42" alt="Go"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="42" alt="Solidity"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" alt="Dart"/>
-<!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="42" alt="Rust"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="42" alt="Ruby"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="42" alt="Kotlin"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="42" alt="Swift" style="background:white; border-radius:8px"/>
--->
+---
 
+### Tech Stack
 
-### Frontend & Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="42" alt="Next.js" style="background:white; border-radius:8px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="42" alt="Vue.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="42" alt="Tailwind CSS" style="background:white; border-radius:8px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="42" />
+**Languages**  
+`Python` `TypeScript` `JavaScript` `Go` `Solidity` `Dart` `C++` `Java` `PHP`
 
-<!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="42" alt="Nuxt.js" style="background:white; border-radius:8px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="42" alt="Svelte"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="42" alt="Angular"/>
--->
-         
+**Frontend**  
+`React` `Next.js` `Vue.js` `Tailwind CSS` `Flutter` `React Native`
 
-### Backend & APIs
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42" alt="Express" style="background:#fff"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="Django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" alt="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="42" alt="Laravel" style="background:white; border-radius:8px" />             
-<img src="https://gin-gonic.com/_astro/gin.D6H2T_2v_ZD2G7l.webp" height="42" alt="Gin" style="background:white; border-radius:8px"/>
+**Backend & APIs**  
+`Node.js` `Express` `Django` `Flask` `Laravel` `Gin`
 
-### Mobile Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="42" alt="Flutter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="React Native"/>
+**AI / ML**  
+`PyTorch` `TensorFlow` `scikit-learn`
 
-### AI / ML
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" alt="TensorFlow"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" alt="PyTorch"/>
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="42" alt="scikit-learn"/>
+**Blockchain**  
+`Ethereum` `Solidity` `Hardhat` `Web3.js`
 
-### Blockchain
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" height="42" alt="Ethereum"/>
-<img src="https://docs.web3js.org/img/web3js.svg" height="42" alt="Web3.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" height="42" alt="Hardhat" />
+**Infrastructure**  
+`PostgreSQL` `MongoDB` `Redis` `Docker` `Git`
 
+---
 
+### Current Focus
 
+- AI-powered trading systems & financial prediction models  
+- High-performance backends with **Go + Gin**  
+- Full-stack dApps (`Next.js` + `Solidity`)  
+- LLM agents and on-chain AI experiments  
 
-### Databases & Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42" alt="Redis"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
+---
 
-</div>
-
-<br>
-
-## Current Focus & Interests
-
-- AI-powered trading bots & financial prediction models
-- High-performance backend systems (Go + Gin)
-- Full-stack dApps with React/Next.js + Solidity
-- Exploring agents, LLMs, and on-chain AI
-
-<br>
-
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
-<!--
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noaht8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
--->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noaht8&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<br>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noaht8&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noaht8&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=6e56cf&point=ffffff" alt="Contribution Graph"/>
 
-<br>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Noaht8&theme=onedark&no-frame=true&row=1&margin-w=20"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Noaht8&theme=onedark&no-frame=true&row=1&margin-w=15"/>
 
 </div>
 
-<br>
+---
 
-## Let's Connect
+### Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-tsegay-584546129/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noahtsegay8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noaht8)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noahtsegay8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noaht8)
 
-<br><br>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Noaht8&label=Profile%20Views&color=6e56cf&style=flat-square" />
 
 </div>
 
-<br>
+---
 
 <div align="center">
-  <i>Always shipping. Always learning. Always open to cool projects.</i>
+  <i>Always shipping. Always learning.</i>
 </div>
