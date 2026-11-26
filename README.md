@@ -58,14 +58,10 @@ I build intelligent systems, decentralized applications, and high-performance ba
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noaht8&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noaht8&theme=tokyo-night&hide_border=true&bg_color=0d1117&line=6e56cf&point=ffffff" alt="Contribution Graph" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Noaht8&theme=onedark&no-frame=true&row=1&margin-w=15" />
 </div>
 
 ---
